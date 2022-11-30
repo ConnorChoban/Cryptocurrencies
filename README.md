@@ -8,7 +8,7 @@ By analyzing our visualizations below we can come to a few conclusions. By looki
 
 <img width="720" alt="Screen Shot 2022-06-24 at 2 15 10 AM" src="https://user-images.githubusercontent.com/99847786/175476140-fb7aac8b-f785-4820-983e-e45253ac03f4.png">
 
-In this visualization, we can see which data belongs to which cluster. We can see that three of the four clusters aggregate by components 1 and 2, with BitTorrent being a noticeable outlier. Depending on our needs for this analysis in the future, we can either choose to investigate this outlier or decide to eliminate it completely. 
+In this visualization, we see which data belongs to which cluster. We can see that three of the four clusters aggregate by components 1 and 2, with BitTorrent being a noticeable outlier. Depending on our needs for this analysis in the future, we can either choose to investigate this outlier or decide to eliminate it completely. 
 
 <img width="818" alt="Screen Shot 2022-06-24 at 2 14 53 AM" src="https://user-images.githubusercontent.com/99847786/175474319-9e091413-5f39-4567-a6d6-b933af228e66.png">
 
